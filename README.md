@@ -1,2 +1,2 @@
-# beginner-repo-template
-Helps beginners create repositories
+# README.md heading temppate
+README.md text template
