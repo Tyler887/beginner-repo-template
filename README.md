@@ -1,2 +1,2 @@
-# README.md heading temppate
+# README.md heading template
 README.md text template
